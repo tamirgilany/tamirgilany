@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tamirgilany
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning React, NodeJS and Typescript
 - 📫 You can reach me at https://www.linkedin.com/in/tamirgilany/
 
 <!---
