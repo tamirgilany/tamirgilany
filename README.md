@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tamirgilany
-- 👀 I’m interested in ...
 - 📫 You can reach me at https://www.linkedin.com/in/tamirgilany/
 
 <!---
