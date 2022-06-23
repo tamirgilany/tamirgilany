@@ -10,7 +10,9 @@
 
 &nbsp;
 
-![alt text](https://github-readme-stats.vercel.app/api?username=tamirgilany&count_private=true&show_icons=true&theme=nightowl)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tamirgilany&count_private=true&show_icons=true&theme=nightowl" alt="stats" /></div>
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=tamirgilany&color=blueviolet" alt="views" /></div>
 
 <!---
 tamirgilany/tamirgilany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
