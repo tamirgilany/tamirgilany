@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm @tamirgilany 👋</h1>
 
-<h3 align="center">[Enthusiast Developer](https://medium.com/geekculture/the-enthusiast-developer-db882a8fbc3f#:~:text=The%20enthusiast%20developer%20derives%20significant,authority%20in%20their%20knowledge%20base.) | Problem Solver | Techie</h3>
+<h3 align="center"><a href="https://medium.com/geekculture/the-enthusiast-developer-db882a8fbc3f#:~:text=The%20enthusiast%20developer%20derives%20significant,authority%20in%20their%20knowledge%20base.">Enthusiast Developer</a> | Problem Solver | Techie</h3>
 
 &nbsp;
 
