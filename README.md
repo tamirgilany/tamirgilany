@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm @tamirgilany 👋</h1>
 
-<h3 align="center">Problem Solver | Techie</h3>
+<h3 align="center">Enthusiast Developer | Problem Solver | Techie</h3>
 
 &nbsp;
 
