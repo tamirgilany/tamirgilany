@@ -4,7 +4,7 @@
 
 &nbsp;
 
-- 💼 Working as a Frontend Team Lead at AlfaBet
+- 💼 Working as a Frontend Team Lead at CaliAlfa
 - 🎯 My goal is to make things look good, be fast and efficient while sustaining a robust scalable code base
 - 📫 You can reach me at &nbsp; [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flatl&logo=linkedin)](https://www.linkedin.com/in/tamirgilany/)
 
